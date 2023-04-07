@@ -1,2 +1,2 @@
-# demo
-it is my new project.
+# Demo
+It is my new project.
